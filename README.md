@@ -10,4 +10,4 @@ Languages used:
 
 Steps to Install:
 1. Open any file in IDE or Create Virtual Environment
-2. Run
+2. Run.
