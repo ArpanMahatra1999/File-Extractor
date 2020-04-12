@@ -1,5 +1,4 @@
 # File-Extractor
-
 Python code for extracting file using module zipfile.
 
 Tools used:
